@@ -1,136 +1,61 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Keerthivasan N profile banner" width="100%"/>
+<img src="./assets/profile-banner.svg" alt="Keerthivasan N — AI, full-stack and computer vision developer" width="100%"/>
 
-### AI • Full-Stack • Computer Vision
+<br/>
 
-<a href="https://github.com/keke2204"><img src="https://img.shields.io/badge/GitHub-keke2204-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:keerthivasan2220@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/keke2204"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:keerthivasan2220@gmail.com"><img src="https://img.shields.io/badge/EMAIL-B71C2C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
----
+## ⚡ I build things that make ideas usable.
 
-## 👋 Hey, I'm Keerthivasan
+I'm **Keerthivasan** — a developer interested in the space where **AI, software engineering and real-world problems** meet.
 
-I'm a developer who enjoys turning ambitious ideas into **practical software, AI-powered tools, and useful products**.
+I enjoy taking an idea from a rough concept → working prototype → something people can actually use.
 
-My recent work spans **AI agents, computer vision, full-stack web applications, image analysis, browser automation, and developer tooling**. I like building projects that solve a real problem rather than stopping at a demo.
-
-> **Build it. Test it. Learn from it. Make it better.**
+My projects explore **AI agents, computer vision, intelligent web applications, automation and privacy-focused technology**.
 
 ---
 
-## ⚡ What I'm Building
+## 🧠 My Approach
 
-- 🤖 **AI systems & agents** — practical AI workflows and review systems
-- 🧠 **Computer vision** — image analysis, similarity, manipulation detection and verification
-- 🌐 **Full-stack products** — React/Vite frontends with Python/FastAPI backends
-- 🛡️ **Digital identity protection** — defensive tools for detecting and responding to media misuse
-- 🧪 **Developer experiments** — turning ideas into working prototypes and deployable products
+I don't want to build technology just because it's possible.
 
----
+I ask:
 
-## 🧰 Tech Stack
+> **Does this solve a real problem? Can it be made simpler? What happens when a real person actually uses it?**
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" alt="Languages"/>
-</p>
+That mindset shapes how I experiment, design and ship.
 
-### Frontend & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,fastapi,nodejs" alt="Frontend and backend"/>
-</p>
-
-### AI / Data / Computer Vision
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" alt="AI and data"/>
-</p>
-
-**Also working with:** ChromaDB · SQLite · SQLAlchemy · NumPy · Pandas · Sentence Transformers · Groq/OpenAI-compatible APIs · Playwright
-
-### Cloud & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,cloudflare,render" alt="Cloud and tools"/>
-</p>
+**Think → Build → Break → Learn → Refine → Ship**
 
 ---
 
-## 🚀 Featured Projects
+## 🔭 Current Focus
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🧠 Precedent
-**AI review agent that learns from corrected mistakes.**
+### 🤖 AI Systems
 
-Uses retrieval over previous human corrections so similar future inputs can benefit from what the system learned — without model fine-tuning.
-
-**Stack:** FastAPI · React · ChromaDB · SQLite · Groq · Cloudflare
-
-<a href="https://github.com/keke2204/PRECEDENT">Repository</a> · <a href="https://precedent-review.precedent-review.workers.dev">Live Demo</a>
+Building practical AI workflows, retrieval-based systems and tools that improve with feedback.
 
 </td>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🛡️ VeriSelf
-**Digital identity defense for the non-famous.**
+### 👁️ Computer Vision
 
-A defensive workflow combining image analysis, similarity matching, manipulation detection, public-web monitoring, evidence collection and response guidance.
-
-**Stack:** React · Vite · Tailwind · FastAPI · OpenCV · Playwright
-
-<a href="https://github.com/keke2204/VERISELF">Repository</a> · <a href="https://keke2204.github.io/VERISELF/">Live Demo</a>
+Exploring image understanding, similarity, manipulation detection and visual intelligence.
 
 </td>
-</tr>
+<td width="33%" align="center">
 
-<tr>
-<td width="50%">
+### 🌐 Product Engineering
 
-### 👥 ASK TEAM
-**AI/ML-focused identity protection platform.**
-
-A full-stack project combining web engineering, computer vision, machine learning and defensive digital-identity workflows.
-
-**Stack:** JavaScript · Python · FastAPI · OpenCV · SQLite · Playwright
-
-<a href="https://github.com/keke2204/ASK-TEAM">Repository</a>
-
-</td>
-<td width="50%">
-
-### 😂 KEKE MEME CAPTION
-**Zero-key meme caption studio.**
-
-A browser-first meme captioning application where rendering and downloading happen locally without requiring an API key.
-
-**Stack:** React · Vite · TypeScript · Canvas · GitHub Pages
-
-<a href="https://github.com/keke2204/KEKE_MEME_CAPTION">Repository</a> · <a href="https://keke2204.github.io/KEKE_MEME_CAPTION/">Live Demo</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎤 AI Interview Coach
-**AI-powered interview practice project.**
-
-A focused project for experimenting with AI-assisted interview preparation and coaching workflows.
-
-<a href="https://github.com/keke2204/AI-INTERVIEW-COACH">Repository</a>
-
-</td>
-<td width="50%">
-
-### 🔬 More in progress...
-I'm continuously experimenting with new AI, full-stack and computer-vision ideas.
-
-<a href="https://github.com/keke2204?tab=repositories">Explore all repositories →</a>
+Turning ideas into polished full-stack applications with thoughtful UX and dependable backends.
 
 </td>
 </tr>
@@ -138,78 +63,108 @@ I'm continuously experimenting with new AI, full-stack and computer-vision ideas
 
 ---
 
-## 📊 GitHub
+## 🛠️ Tools I Reach For
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,vite,tailwind,fastapi,nodejs,pytorch,opencv,git,github,cloudflare" alt="Technology stack"/>
+</p>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=keke2204&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff3b52&icon_color=ff3b52&text_color=c9d1d9&ring_color=ff3b52" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keke2204&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff3b52&text_color=c9d1d9" height="165" alt="Top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=keke2204&theme=dark&hide_border=true&background=0D1117&ring=FF3B52&fire=FF3B52&currStreakLabel=FF3B52" alt="GitHub streak"/>
+**Python** · **TypeScript** · **JavaScript** · **React** · **Vite** · **Tailwind** · **FastAPI** · **Node.js**  
+**PyTorch** · **OpenCV** · **ChromaDB** · **SQLite** · **SQLAlchemy** · **NumPy** · **Pandas** · **Playwright**
 
 </div>
 
 ---
 
-## 🧩 How I Like to Build
+## 🚀 Selected Work
 
-```text
-IDEA
-  ↓
-Prototype
-  ↓
-Build the real workflow
-  ↓
-Test with actual inputs
-  ↓
-Find what breaks
-  ↓
-Improve
-  ↓
-Ship 🚀
-```
+### 🧠 PRECEDENT
+**A review agent designed to learn from human corrections.**
 
-I care about **useful UX, honest limitations, reproducible systems, and shipping working software**.
+Instead of treating every mistake as a one-off failure, Precedent stores useful corrections and retrieves them when similar situations appear again.
+
+**Built with:** FastAPI · React · ChromaDB · SQLite · Groq · Cloudflare
+
+[**Explore PRECEDENT →**](https://github.com/keke2204/PRECEDENT) · [**Live →**](https://precedent-review.precedent-review.workers.dev)
 
 ---
 
-## 🌱 Currently Exploring
+### 🛡️ VERISELF
+**A defensive digital-identity toolkit.**
 
-- Generative AI & AI agents
-- Retrieval-augmented systems
-- Computer vision & multimodal applications
-- Full-stack architecture
+A project exploring how computer vision, similarity analysis, web monitoring and evidence collection can work together to help people understand and respond to misuse of their images online.
+
+**Built with:** React · Vite · Tailwind · FastAPI · OpenCV · Playwright
+
+[**Explore VERISELF →**](https://github.com/keke2204/VERISELF) · [**Live →**](https://keke2204.github.io/VERISELF/)
+
+---
+
+### 😂 KEKE MEME CAPTION
+**A lightweight meme creation studio with no API key required.**
+
+The browser handles the core rendering workflow locally, keeping the experience fast and simple.
+
+**Built with:** React · Vite · TypeScript · Canvas
+
+[**Explore →**](https://github.com/keke2204/KEKE_MEME_CAPTION) · [**Live →**](https://keke2204.github.io/KEKE_MEME_CAPTION/)
+
+---
+
+### 🎤 AI INTERVIEW COACH
+**An experiment in AI-assisted interview preparation.**
+
+Built to explore how AI can turn interview preparation into a more interactive, structured experience.
+
+[**Explore →**](https://github.com/keke2204/AI-INTERVIEW-COACH)
+
+---
+
+## 🧪 I Like Exploring
+
+- Generative AI & intelligent agents
+- Retrieval-augmented applications
+- Computer vision & multimodal systems
+- Human-in-the-loop AI
 - Browser automation
-- Cloud deployment
-- Better developer experiences
+- Full-stack product development
+- Privacy and digital identity
+- Cloud-native deployment
 
 ---
 
-## 🤝 Let's Connect
+## 🧩 Beyond the Code
+
+I enjoy the part of development that happens **before the code**:
+
+**Finding the problem.  
+Questioning the obvious solution.  
+Designing the experience.  
+Then writing the software.**
+
+The goal isn't to have the biggest stack.
+
+**The goal is to build something worth using.**
+
+---
+
+## 🤝 Open to Interesting Ideas
+
+I'm especially interested in collaborating on projects involving:
+
+**AI × Software · Computer Vision · Developer Tools · Automation · Privacy · Experimental Products**
+
+If you're building something ambitious, feel free to reach out.
 
 <div align="center">
 
-<a href="https://github.com/keke2204">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:keerthivasan2220@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="mailto:keerthivasan2220@gmail.com"><img src="https://img.shields.io/badge/LET'S_BUILD-B71C2C?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's build"/></a>
+<a href="https://github.com/keke2204?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-111111?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work"/></a>
 
 <br/><br/>
 
-**Interested in AI, full-stack products, computer vision, or building something useful?**
-
-</div>
-
----
-
-<div align="center">
-
-### "Ideas are cheap. Working software is the proof."
-
-<img src="https://komarev.com/ghpvc/?username=keke2204&style=flat-square&color=ff3b52" alt="Profile views"/>
+**Building quietly. Learning constantly. Shipping deliberately.**
 
 </div>
